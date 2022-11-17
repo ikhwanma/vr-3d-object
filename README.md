@@ -1,5 +1,4 @@
-# Virtual Tour Kantin FILKOM UB
-Virtual Kantin FILKOM UB menampilkan informasi penting mengenai kantin baru FILKOM UB berupa daftar menu yang sediakan.
+# VR 3D Object
 
 Anggota Kelompok:
 - Dava Mohammad Hamka (195150200111032)
