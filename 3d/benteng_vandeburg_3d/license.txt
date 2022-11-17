@@ -1,0 +1,11 @@
+Model Information:
+* title:	Benteng Vandeburg 3D
+* source:	https://sketchfab.com/3d-models/benteng-vandeburg-3d-4ea23f4dbba443b2a7e03d422dde499d
+* author:	peewee.id (https://sketchfab.com/p2eweeworld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Benteng Vandeburg 3D" (https://sketchfab.com/3d-models/benteng-vandeburg-3d-4ea23f4dbba443b2a7e03d422dde499d) by peewee.id (https://sketchfab.com/p2eweeworld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
